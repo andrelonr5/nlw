@@ -1,0 +1,2 @@
+[1017/055659.248:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1017/061616.259:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\andre\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\ecb93a81-5f07-4872-806f-2c36edf3b1dd: O sistema não pode encontrar o caminho especificado. (0x3)
